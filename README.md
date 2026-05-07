@@ -1,8 +1,8 @@
-# JVK Design System — Retro
+# Design System — Retro
 
 A three-version design system built from Figma to production-ready code.
 
-Every component started as a frame in Figma — designed with colour tokens, spacing grids, and glass morphism layers — then translated 1:1 into TypeScript.
+Every component started as a frame in Figma designed with colour tokens, spacing grids, and glass morphism layers then translated 1:1 into TypeScript.
 
 ---
 
